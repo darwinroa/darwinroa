@@ -2,7 +2,7 @@
 <h1 align="center">Hi👋, I’m Darwin Roa</h1>
 <h3 align="center">Full Stack Developer | WordPress | React | Node | Express | PostgreSQL | CSS | HTML</h3>
 
-📄 **I am a mechanical engineer who became interested in programming, and during a long process, I fell in love with this world. Today I have more than 4 years of experience as a WordPress web developer and 1 year ago I decided to face a bigger challenge, that of becoming a FullStack, where I decided to learn Node, Express, React, Postgress and more.**
+📄 **I am a mechanical engineer who became interested in programming, and during a long process, I fell in love with this world. Today I have more than 5 years of experience as a WordPress web developer and 1 year ago I decided to face a bigger challenge, that of becoming a FullStack, where I decided to learn Node, Express, React, PostgreSQL and more.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
